@@ -1,4 +1,4 @@
-![IMG](./img/img_lin_1.png)
+![IMG](./img/scr_1.png)
 
 # ⏱️ TimeSyncLogger — Синхронизация времени с логированием
 
