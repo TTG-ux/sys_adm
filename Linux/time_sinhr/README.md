@@ -1,4 +1,4 @@
-![Screenshot](/img/img_lin_1.png)
+![Screenshot](sys_adm/Linux/time_sinhr/img/img_lin_1.png)
 
 # ⏱️ TimeSyncLogger — Синхронизация времени с логированием
 
